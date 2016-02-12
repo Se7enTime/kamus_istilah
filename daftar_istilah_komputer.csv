@@ -5,7 +5,7 @@ action button,tombol aksi
 action setting,penataan aksi
 add-ons,pengaya
 address,alamat
-algorithm, algoritma
+algorithm,algoritma
 align left,rata kiri
 align right,rata kanan
 alignment,perataan
@@ -116,13 +116,14 @@ hack,retas
 hacker,peretas
 hang,macet
 harddisk,"cakram keras,diska keras"
+hardware,perangkat keras
 hastag,tagar (tanda pagar)
 header,tajuk
 heading,penajukan
 highlight,sorot
 history,riwayat
 home,beranda
-hotspot, area bersinyal
+hotspot,area bersinyal
 hyperlink,hipertaut
 image,citra
 import,impor
@@ -172,7 +173,7 @@ post,kirim
 posting,kiriman
 potrait,potret
 power,daya
-preference,	preferensi
+preference,preferensi
 preview,pratinjau/pratayang/pratampil
 printer,pencetak
 privacy,privasi
@@ -224,6 +225,7 @@ synchronize,menyelaraskan
 tap,ketuk
 taskbar,batang tugas
 template,templat
+tethering,peranggitan
 terms & condition,Syarat dan Ketentuan
 thread,utas/ulir
 timeline,kronologi/linimasa
